@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Navbar from "./navbar";
 import Landing from "./landing";
 import Sectiontwo from "./sectiontwo";
-
+import Sectionthree from "./sectionthree";
 
 const App=()=>{
 
@@ -12,6 +12,7 @@ return (
 <Navbar></Navbar>
 <Landing></Landing>
 <Sectiontwo></Sectiontwo>
+<Sectionthree></Sectionthree>
 </div>
 )
 }
