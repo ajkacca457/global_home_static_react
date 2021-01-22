@@ -4,6 +4,10 @@ import Navbar from "./navbar";
 import Landing from "./landing";
 import Sectiontwo from "./sectiontwo";
 import Sectionthree from "./sectionthree";
+import Sectionfour from "./sectionfour";
+import Sectionfive from "./sectionfive";
+import Footer from "./footer";
+
 
 const App=()=>{
 
@@ -13,6 +17,9 @@ return (
 <Landing></Landing>
 <Sectiontwo></Sectiontwo>
 <Sectionthree></Sectionthree>
+<Sectionfour></Sectionfour>
+<Sectionfive></Sectionfive>
+<Footer></Footer>
 </div>
 )
 }
