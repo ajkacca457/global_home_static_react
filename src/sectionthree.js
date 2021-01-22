@@ -15,8 +15,8 @@ return(
 
     <div className="card m-1 text-dark">
       <div className="card-body">
-        <i className="fas fa-dungeon fa-3x p-3 bg-danger text-white rounded-circle mb-3"></i>
-        <h6 className="pt-2 font-weight-bold">Seceured Housing</h6>
+<img src="https://img.icons8.com/ultraviolet/35/000000/home--v1.png"/>
+<h6 className="pt-2 font-weight-bold">Seceured Housing</h6>
         <p className="card-text text-justify ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex voluptate iste harum pariatur veritatis nemo ab doloremque nisi ipsum soluta accusamus, dolorum amet vitae deserunt cupiditate, quaerat enim numquam dolore?</p>
         <button type="button" className="btn btn-danger">More</button>
       </div>
@@ -24,8 +24,8 @@ return(
 
     <div className="card m-1 text-dark">
       <div className="card-body">
-      <i className="fas fa-street-view fa-3x p-3 bg-danger text-white rounded-circle mb-3"></i>
-        <h6 className="pt-2 font-weight-bold">Excellent Locations</h6>
+<img src="https://img.icons8.com/ultraviolet/35/000000/worldwide-location.png"/>
+  <h6 className="pt-2 font-weight-bold">Excellent Locations</h6>
         <p className="card-text text-justify ">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex voluptate iste harum pariatur veritatis nemo ab doloremque nisi ipsum soluta accusamus, dolorum amet vitae deserunt cupiditate, quaerat enim numquam dolore?</p>
         <button type="button" className="btn btn-danger">More</button>
       </div>
@@ -33,7 +33,7 @@ return(
 
     <div className="card m-1 text-dark">
       <div className="card-body">
-        <i className="fas fa-money-bill fa-3x p-3 bg-danger text-white rounded-circle mb-3"></i>
+        <img src="https://img.icons8.com/ultraviolet/40/000000/price-tag-euro.png"/>
         <h6 className="pt-2 font-weight-bold">Affordable Price</h6>
         <p className="card-text text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex voluptate iste harum pariatur veritatis nemo ab doloremque nisi ipsum soluta accusamus, dolorum amet vitae deserunt cupiditate, quaerat enim numquam dolore?</p>
         <button type="button" className="btn btn-danger">More</button>

@@ -11,12 +11,13 @@ return(
   <p className="font-weight-bold">Dublin based investment</p>
   <img src={logo} alt="company logo" id="clogo" />
   <div className="social d-flex">
-    <p className="mr-3">On social networks</p>
-  <div className="sociallogo">
-    <i className="fab fa-facebook"></i>
-    <i className="fab fa-twitter"></i>
-    <i className="fab fa-google-plus-square"></i>
-    <i className="fab fa-instagram"></i>
+
+  <div className="sociallogo d-flex align-items-center justify-content-center">
+  <p className="mr-3">On social networks</p>
+<img className="mr-1" src="https://img.icons8.com/ios-glyphs/35/000000/facebook-new.png"/>
+    <img className="mr-1" src="https://img.icons8.com/ios-glyphs/35/000000/instagram-new.png"/>
+    <img className="mr-1" src="https://img.icons8.com/ios-glyphs/35/000000/youtube-play.png"/>
+    <img className="mr-1" src="https://img.icons8.com/ios-glyphs/35/000000/twitter.png"/>
   </div>
   </div>
   </div>
