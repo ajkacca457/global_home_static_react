@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.99975055.chunk.css",
-    "main.js": "/static/js/main.40da37f0.chunk.js",
-    "main.js.map": "/static/js/main.40da37f0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.82cc2b1b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.82cc2b1b.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.ec8c880d.chunk.js": "/static/js/2.ec8c880d.chunk.js",
-    "static/js/2.ec8c880d.chunk.js.map": "/static/js/2.ec8c880d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.99975055.chunk.css.map": "/static/css/main.99975055.chunk.css.map",
-    "static/js/2.ec8c880d.chunk.js.LICENSE.txt": "/static/js/2.ec8c880d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/img team.ef5f1c7c.jpg",
-    "static/media/img laplogo.8430f20c.png": "/static/media/img laplogo.8430f20c.png",
-    "static/media/img logo 1.9dbe1eb6.png": "/static/media/img logo 1.9dbe1eb6.png"
+    "main.css": "/global_home_static_react/static/css/main.99267e35.chunk.css",
+    "main.js": "/global_home_static_react/static/js/main.40da37f0.chunk.js",
+    "main.js.map": "/global_home_static_react/static/js/main.40da37f0.chunk.js.map",
+    "runtime-main.js": "/global_home_static_react/static/js/runtime-main.245ada4a.js",
+    "runtime-main.js.map": "/global_home_static_react/static/js/runtime-main.245ada4a.js.map",
+    "static/css/2.150d169a.chunk.css": "/global_home_static_react/static/css/2.150d169a.chunk.css",
+    "static/js/2.ec8c880d.chunk.js": "/global_home_static_react/static/js/2.ec8c880d.chunk.js",
+    "static/js/2.ec8c880d.chunk.js.map": "/global_home_static_react/static/js/2.ec8c880d.chunk.js.map",
+    "index.html": "/global_home_static_react/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/global_home_static_react/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.99267e35.chunk.css.map": "/global_home_static_react/static/css/main.99267e35.chunk.css.map",
+    "static/js/2.ec8c880d.chunk.js.LICENSE.txt": "/global_home_static_react/static/js/2.ec8c880d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/global_home_static_react/static/media/img team.ef5f1c7c.jpg",
+    "static/media/img laplogo.8430f20c.png": "/global_home_static_react/static/media/img laplogo.8430f20c.png",
+    "static/media/img logo 1.9dbe1eb6.png": "/global_home_static_react/static/media/img logo 1.9dbe1eb6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82cc2b1b.js",
+    "static/js/runtime-main.245ada4a.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ec8c880d.chunk.js",
-    "static/css/main.99975055.chunk.css",
+    "static/css/main.99267e35.chunk.css",
     "static/js/main.40da37f0.chunk.js"
   ]
 }
