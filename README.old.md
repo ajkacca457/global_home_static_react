@@ -1,1 +1,0 @@
-# Global_home_static_react
