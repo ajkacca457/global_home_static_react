@@ -6,7 +6,7 @@ const Sectiontwo=()=>{
 
 return(
 
-  <section className="second">
+  <section className="second" id="about">
   <div className="maincont">
   <div className="row">
   <div className=" col-12 col-md-6 offset-md-6 p-5 cont1">

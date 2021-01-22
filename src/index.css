@@ -27,8 +27,10 @@ code {
   background-color: white;
 }
 .mynavbar {
-  background-color: rgba(3, 82, 135, 0.84);
-  position: fixed;
+  background-color: rgba(3, 82, 135, 0.94);
+  width: 100%;
+  height: 10vh;
+  z-index: 2;
 }
 
 .landingpage {

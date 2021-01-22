@@ -6,7 +6,7 @@ const Sectionthree=()=>{
 
 return(
 
-  <section className="third text-center p-3 bg-dark text-white">
+  <section className="third text-center p-3 bg-dark text-white" id="services">
   <div className="headgr p-5">
   <h1>Beautiful and easy to use services, <br /> professional guidance and loan features</h1>
   </div>

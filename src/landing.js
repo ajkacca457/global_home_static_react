@@ -5,7 +5,7 @@ const Landing=()=>{
 
 return(
 
-  <section className="landingpage">
+  <section className="landingpage" id="home">
     <div className="overlay">
   <div className="container-fluid">
   <h1 className="pb-3 text-capitalize">Find your dream home</h1>
